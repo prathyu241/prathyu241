@@ -10,4 +10,4 @@ Hi there! I'm prathyusha, a dedicated AWS DevOps Engineer and Performance Test E
 
 ## Contact me 
 
-- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/prathyusha-vankayala-042864b5/))
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/prathyusha-vankayala-042864b5/)
